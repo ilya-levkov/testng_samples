@@ -1,0 +1,13 @@
+package ru.stqa.trainings.testng.sample0;
+
+/**
+ * Hello world!
+ *
+ */
+public class First
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+}
